@@ -1,7 +1,6 @@
 ### 这是我的github主页😎 welcome!
 - 热爱编程
 - 热爱生活
-- 热爱Java
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
