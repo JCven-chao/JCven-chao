@@ -1,4 +1,4 @@
-### 这是我的github主页😎 welcome!
+### This is my Github Page 😎 Welcome!
 - 热爱编程
 - 热爱生活
 
